@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [My Website](https://iberkankasapoglu.pythonanywhere.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am an astronaut
---> 
