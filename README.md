@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Python
+- 🔭 I’m currently working on ... I'm doing an internship at PiriReis Bilişim
 - 🌱 I’m currently learning ... Python and Django
 - 👯 I’m looking to collaborate on ... Python 
 - 🤔 I’m looking for help with ... Javascript 
