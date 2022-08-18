@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ## Reach out to me 
 
-<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />
+<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />[linkedin]
 
 [linkedin]:https://www.linkedin.com/in/isfendiyar-berkan-kasapoğlu-600603217/
 <br />
