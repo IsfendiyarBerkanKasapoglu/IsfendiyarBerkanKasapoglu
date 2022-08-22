@@ -1,4 +1,12 @@
-### Here is What I'm working on! 👋
+<h1>Hey There!, I am <a href="https://github.com/ardaakdere">Isfendiyar Berkan</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+</h1>
+
+### 📬 Find me at
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logo=github&link=https://github.com/ardaakdere/)](https://github.com/IsfendiyarBerkanKasapoglu) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/isfendiyar-berkan-kasapoğlu-600603217/)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=http://ardaakdere.com)](https://iberkankasapoglu.pythonanywhere.com) 
+[![Datacamp Badge](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F&link=https://www.datacamp.com/profile/ardaakdere)](https://app.datacamp.com/profile/berkankasapoglu) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=berkankasapoglu@hotmail.com)](berkanksapoglu@hotmail.com) 
 
 
 Here are some ideas to get you started:
@@ -12,11 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am a Fitness lover.
 
-## Reach out to me 
-
-[<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
-
-[linkedin]:https://www.linkedin.com/in/isfendiyar-berkan-kasapoğlu-600603217/
-<br />
-<br />
 
