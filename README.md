@@ -20,4 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am a Fitness lover.
 
+### 🚀 Quick Stats
+<p align="center">
+<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=IsfendiyarBerkanKasapoglu&show_icons=true&line_height=21&theme=react" alt="IsfendiyarBerkanKasapoglu's Github Stats" />
+
+</p>
 
