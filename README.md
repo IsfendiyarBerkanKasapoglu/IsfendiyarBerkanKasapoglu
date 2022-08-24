@@ -6,7 +6,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/isfendiyar-berkan-kasapoğlu-600603217/)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=http://ardaakdere.com)](https://iberkankasapoglu.pythonanywhere.com) 
 [![Datacamp Badge](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F&link=https://www.datacamp.com/profile/ardaakdere)](https://app.datacamp.com/profile/berkankasapoglu) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=berkankasapoglu@hotmail.com)](berkanksapoglu@hotmail.com) 
 
 
 Here are some ideas to get you started:
